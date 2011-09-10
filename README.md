@@ -1,5 +1,5 @@
 # ConsoleFM #
-This gem grabs tracks and their sources from [][console.fm] and gives them back
+This gem grabs tracks and their sources from [console.fm](console.fm) and gives them back
 in an array. It also lets you see valid genres and check strings against that
 list of genres. Think of it as a really ghetto API, since they won't let me make
 one for them anyway. :D 
@@ -30,7 +30,7 @@ And that's about it.
 There's no rate limiting, yet.
 
 Sometimes the server will return various 400 errors if you want to download the tracks.
-This will depend soley on how a lonely farmer on the west coast of Norway is feeling at 
+This will depend solely on how a lonely farmer on the west coast of Norway is feeling at 
 that precise nanosecond. There is nothing you can do but send this farmer love letters, 
 chocolate and use the following code block to ensure smooth operation:
 
@@ -49,4 +49,4 @@ end
 ```
 ## License ##
 
-This gem is under BSD but [][console.fm] has their own terms. I would follow them.
+This gem is under BSD but [console.fm](console.fm) has their own terms. I would follow them.
