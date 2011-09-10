@@ -10,7 +10,7 @@ one for them anyway. :D
 
 ## Usage ##
 
-'''ruby
+```ruby
 require "consolefm"
 
 #get the genres
